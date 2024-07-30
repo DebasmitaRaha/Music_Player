@@ -33,7 +33,7 @@ Welcome to the Spotify Clone website, a vibrant space designed for music enthusi
 # Setup and Installation
 1. Clone the repository:
  `git clone https://github.com/yourusername/spotify-clone.git`
-2.Open `index.html` in your browser to explore the website locally.
+2. Open `index.html` in your browser to explore the website locally.
 
 # Demo Link:
 [Click Here](https://drive.google.com/file/d/1_56ffpxwdRl75uZcE3G9Y9E50ieYk_NK/view?usp=sharing)
