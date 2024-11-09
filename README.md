@@ -1,5 +1,5 @@
-# Spotify_Clone
-Welcome to the Spotify Clone website, a vibrant space designed for music enthusiasts. This web application replicates the core functionalities of Spotify, allowing users to explore, listen to, and enjoy a wide variety of music. With a sleek and responsive design, this project aims to provide an immersive and user-friendly experience for music lovers.
+# Music_Player
+Welcome to the Music Player Platform , a vibrant space designed for music enthusiasts. This web application replicates the core functionalities of Spotify, allowing users to explore, listen to, and enjoy a wide variety of music. With a sleek and responsive design, this project aims to provide an immersive and user-friendly experience for music lovers.
 
 
 # Features
